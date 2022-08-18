@@ -1,27 +1,6 @@
 # Periodogram-vs-Pwelch
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%        %%%%%%%%%%%%%%%%%%%%%%%%%%%%%    
-%%                          %%           %%                                       %%                          %%                            
-%%                           %%          %%                                       %%                           %%                              
-%%                            %%         %%                                       %%                            %%
-%%                             %%        %%                                       %%                             %%
-%%                             %%        %%                                       %%                             %%
-%%                            %%         %%                                       %%                            %%
-%%                           %%          %%                                       %%                           %%
-%%                          %%           %%                                       %%                          %%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%        %%%%%%%%%%%%%%%%%%%%%%%%%%%%%                             
-%%                          %%                                          %%        %%                                                                            
-%%                           %%                                         %%        %%                              
-%%                            %%                                        %%        %%                                         
-%%                             %%                                       %%        %%                                       
-%%                             %%                                       %%        %%                                        
-%%                            %%                                        %%        %%                                       
-%%                           %%                                         %%        %%                               
-%%                          %%                                          %%        %%                                                                            
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%        %%
 
-
-
-This Matlab code is written to compare Periodogram and Welch Spectrum Estimation for different biological signals.
+"This Matlab code is written to compare Periodogram and Welch Spectrum Estimation for different biological signals"
 
 
 DATA: 
